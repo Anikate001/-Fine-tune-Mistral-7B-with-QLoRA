@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 18 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 2 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $11.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 2 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 11 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $11.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 5 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 1 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 2 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 18 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 22 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 16 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 14 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 10 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $28.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 14 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 23 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 18 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 18 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 22 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 30 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 29 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $18.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $4.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 1 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 7 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 19 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 1 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 7 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 24 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 15 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 7 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $19.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 2 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 19 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 15 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 26 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 23 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $9.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 10 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 19 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 4 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 14 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 26 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 23 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 12 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 29 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 25 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 22 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 5 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $1.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 15 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 15 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 20 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 6 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 21 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 24 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 5 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 28 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 15 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 19 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 19 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 15 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 24 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $4.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $4.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $19.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 18 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 13 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 9 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 21 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 11 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 21 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 17 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 29 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 28 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 18 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 19 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 23 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 14 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 22 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $11.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 18 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 21 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $5.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 18 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 9 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 21 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 13 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 11 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 20 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 7 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 17 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 8 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 7 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 13 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $29.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 19 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 9 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 5 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 17 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 15 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 28 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 30 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 8 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 21 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 13 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 23 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $12.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 26 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 15 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 16 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 16 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 26 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $23.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 10 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 17 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 9 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 20 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 17 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 30 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 11 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 9 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 28 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 8 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 7 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 6 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 20 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 25 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 15 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 8 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 11 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 12 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 12 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 14 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 27 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 8 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 6 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 16 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 4 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 9 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 10 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 16 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 12 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 8 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $19.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 21 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 17 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 14 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 29 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 13 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 5 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 29 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 27 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 20 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 22 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 23 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 24 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 5 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 1 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 7 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 1 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 8 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 11 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 27 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $9.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 5 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 10 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 17 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $7.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 24 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 14 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 27 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $26.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 28 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 18 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 4 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 25 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 20 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 25 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $14.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 11 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $12.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 24 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 30 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 7 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 12 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 26 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 10 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 19 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 11 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 13 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $30.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 11 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 8 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 29 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 9 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 7 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 11 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 28 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 23 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 23 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $17.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 21 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 25 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 1 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 5 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 25 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 15 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $14.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 22 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 3 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 29 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 25 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 15 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 24 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 20 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 10 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 26 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 21 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 10 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 29 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 5 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 21 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 9 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 22 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 22 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 7 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 2 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 6 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 29 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 29 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 23 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $19.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 5 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 1 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 13 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 20 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 16 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 18 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 18 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $26.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 23 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $2.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 10 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $25.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 28 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 16 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 19 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 3 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 12 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 13 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 22 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 3 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 13 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 8 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 4 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 27 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 16 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 15 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 30 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 5 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 2 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $9.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 30 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 4 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 30 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 20 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 3 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $5.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $6.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 1 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 13 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $16.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 29 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 4 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 24 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 5 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $25.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 28 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 11 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 14 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 8 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 27 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 24 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 7 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $26.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 8 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 19 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 13 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 10 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 27 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $18.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 19 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 9 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 23 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 25 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 20 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 16 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 5 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 1 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 15 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 27 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 11 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 22 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $29.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $9.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $7.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 14 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 19 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 2 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 7 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 10 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 15 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $27.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 26 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 30 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 22 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 9 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 20 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 23 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 11 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 14 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 2 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 3 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 27 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 4 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 5 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 23 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 26 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 25 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 4 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $8.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $16.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 14 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $9.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 22 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $17.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 12 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 24 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 23 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 27 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 23 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 7 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 4 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 21 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 5 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 11 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 22 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $30.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 29 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 21 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 8 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $2.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 13 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 5 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 11 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 29 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 8 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 8 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 26 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 6 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 15 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 24 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 28 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 1 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 21 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 20 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 11 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 16 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 19 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 27 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 20 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 27 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 6 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 22 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 2 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 20 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 22 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 24 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $17.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 22 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 9 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 18 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $11.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 13 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 12 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 15 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 9 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 12 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 28 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 4 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 16 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 4 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 10 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 6 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $7.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 2 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 18 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 2 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 1 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 18 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 14 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 5 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 15 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 8 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 6 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 11 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 2 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 29 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 2 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 12 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 15 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $4.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 1 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 27 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 12 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 20 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 25 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $7.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 13 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 2 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 2 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 26 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 30 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 26 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 14 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $1.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 10 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $21.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 13 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 11 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 4 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $19.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 22 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 27 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 11 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 10 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 9 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 1 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 23 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 14 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 30 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 27 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 7 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 24 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 25 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 29 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 25 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Instructions were confusing, took 19 tries.",
+    "output": "Sorry for the frustration! We're updating the manual. Here's a video guide: link."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 25 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $17.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 19 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 2 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 19 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $24.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 25 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Customer service took 8 days to respond.",
+    "output": "We're improving response times. You're right to be frustrated \u2014 thank you for the patience."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $13.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $7.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Arrived damaged after 22 days in transit.",
+    "output": "That's unacceptable. We'll ship a replacement today at no cost."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 10 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Works perfectly after 5 months of use.",
+    "output": "Wonderful to hear! Built to last is our goal."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 16 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 8 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 24 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The product stopped working after 17 days.",
+    "output": "We're sorry to hear that. Please contact support@company.com and we'll replace it within 48 hours."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 10 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 8 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Best purchase I've made in 5 years!",
+    "output": "Thank you so much! We're thrilled it's working well for you."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $22.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 1 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "Delivery took 11 weeks, too slow.",
+    "output": "We apologize for the delay. Your next order gets free express shipping automatically."
+  },
+  {
+    "instruction": "You are a professional customer support agent. Respond to this review:",
+    "input": "The quality is poor for the price of $15.",
+    "output": "We appreciate the honest feedback. We've forwarded this to our quality team."
+  }
+]
