@@ -28,3 +28,5 @@ from peft import PeftModel, PeftConfig
 ## Dataset
 Synthetic customer review Q&A pairs generated via `generate_dataset.py`. 
 Each sample: a negative/positive review → professional support response.
+
+LIVE AT https://huggingface.co/Anikate0/mistral-7b-customer-support-qlora
