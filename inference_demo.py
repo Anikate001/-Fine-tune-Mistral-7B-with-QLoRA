@@ -1,24 +1,30 @@
-from peft import PeftModel, PeftConfig
-from transformers import AutoModelForCausalLM, AutoTokenizer
+"""Chat with the fine-tuned adapter (v2, Bitext customer support).
+
+pip install transformers peft accelerate bitsandbytes torch
+Needs a GPU with ~6 GB free (4-bit loading), e.g. a free Colab T4.
+"""
 import torch
+from peft import PeftModel
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
-repo_id = "YOUR_HF_USERNAME/mistral-7b-customer-support-qlora"
+BASE = "mistralai/Mistral-7B-Instruct-v0.2"
+ADAPTER = "Anikate0/mistral-7b-bitext-support-qlora"
+SYSTEM = "You are a professional, friendly customer support agent. Reply to the customer's message."
 
-config = PeftConfig.from_pretrained(repo_id)
-base_model = AutoModelForCausalLM.from_pretrained(
-    config.base_model_name_or_path,
-    torch_dtype=torch.float16,
-    device_map="auto"
-)
-model = PeftModel.from_pretrained(base_model, repo_id)
-tokenizer = AutoTokenizer.from_pretrained(repo_id)
+bnb = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch.float16)
+tokenizer = AutoTokenizer.from_pretrained(BASE)
+model = AutoModelForCausalLM.from_pretrained(BASE, quantization_config=bnb, device_map="auto")
+model = PeftModel.from_pretrained(model, ADAPTER).eval()
 
-def respond(review: str) -> str:
-    prompt = f"<s>[INST] You are a professional customer support agent. Respond to this review:\n\n{review} [/INST]"
-    inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
+
+def respond(message: str, max_new_tokens: int = 200) -> str:
+    prompt = f"[INST] {SYSTEM}\n\n{message} [/INST]"   # same template as training
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     with torch.no_grad():
-        out = model.generate(**inputs, max_new_tokens=150, temperature=0.7, do_sample=True)
-    return tokenizer.decode(out[0], skip_special_tokens=True).split("[/INST]")[-1].strip()
+        out = model.generate(**inputs, max_new_tokens=max_new_tokens, do_sample=False,
+                             pad_token_id=tokenizer.eos_token_id)
+    return tokenizer.decode(out[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True).strip()
+
 
 if __name__ == "__main__":
-    print(respond("The product broke after 3 uses and support never replied."))
+    print(respond("I was charged twice for my order, can you help?"))

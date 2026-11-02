@@ -1,0 +1,22 @@
+{
+  "base_model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "train_samples": 2000,
+  "test_samples": 81,
+  "intents": 27,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "trainable_params": 41943040,
+  "trainable_pct_of_7.28B": 0.58,
+  "train_minutes": 33.9,
+  "train_loss_first": 1.691,
+  "train_loss_last": 0.571,
+  "rougeL_base": 0.259,
+  "rougeL_finetuned": 0.411,
+  "judge_model": "openai/gpt-oss-120b",
+  "judge_wins": 25,
+  "judge_losses": 56,
+  "judge_ties": 0,
+  "win_rate": 0.309,
+  "hardware": "Google Colab T4 (16 GB)",
+  "adapter": "https://huggingface.co/Anikate0/mistral-7b-bitext-support-qlora"
+}
