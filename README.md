@@ -48,7 +48,7 @@ Raw numbers: [`results/results.json`](results/results.json).
 ## 🧭 How it works
 
 ```mermaid
-flowchart LR
+flowchart TB
     D[("Bitext dataset<br/>~27K conversations<br/>27 intents")] --> S{Stratified split}
     S -->|2,000| T[Train]
     S -->|81 held out| E[Test]
