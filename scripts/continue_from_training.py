@@ -18,6 +18,10 @@ if not isinstance(model, PeftModel):          # step 7 may already have attached
     model = get_peft_model(model, LoraConfig(
         r=16, lora_alpha=32, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM",
         target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]))
+# T4 has no bf16: keep trainable LoRA weights in fp32 so fp16 mixed precision can unscale their grads
+for p in model.parameters():
+    if p.requires_grad:
+        p.data = p.data.float()
 model.print_trainable_parameters()
 
 args = SFTConfig(
