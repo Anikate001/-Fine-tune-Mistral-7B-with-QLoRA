@@ -28,7 +28,7 @@ args = SFTConfig(
     output_dir="./mistral-bitext-qlora", num_train_epochs=1,
     per_device_train_batch_size=4, gradient_accumulation_steps=4,
     learning_rate=2e-4, lr_scheduler_type="cosine", warmup_steps=10,   # warmup_ratio was removed upstream
-    fp16=True,                      # T4 GPUs support fp16, not bf16
+    bf16=True,                      # same as v1, which trained fine on a T4; fp16 AMP fails on the bf16 base weights
     logging_steps=10, save_strategy="no", optim="paged_adamw_8bit",
     max_length=512, dataset_text_field="text", report_to="mlflow", seed=SEED)
 trainer = SFTTrainer(model=model, train_dataset=train_ds, processing_class=tok, args=args)
