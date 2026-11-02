@@ -45,4 +45,23 @@ v1 trained on 500 synthetic samples from 8 templates, so the model mostly learne
 - **Evaluation:** base vs fine-tuned on the held-out set, scored with ROUGE-L and an LLM-as-judge
   win rate (Llama-3.3-70B, randomised answer order to avoid position bias).
 
-_Results: coming after the first run._
+### Results (Colab T4, 81 held-out questions, 3 per intent)
+
+| Metric | Base Mistral-7B-Instruct | Fine-tuned (v2) |
+|---|---|---|
+| ROUGE-L vs company reference reply | 0.259 | **0.411** (+59%) |
+| LLM-judge preference (`gpt-oss-120b`, randomised order) | **56 wins (69%)** | 25 wins (31%) |
+
+Training: 2,000 samples, 1 epoch (125 steps, 34 min), 42M trainable parameters (0.58%), loss 1.69 -> 0.57.
+Adapter: [Anikate0/mistral-7b-bitext-support-qlora](https://huggingface.co/Anikate0/mistral-7b-bitext-support-qlora).
+Raw numbers: [`results/results.json`](results/results.json).
+
+**What this shows.** Fine-tuning clearly taught the model the company's reply style and content: ROUGE-L
+overlap with the reference replies rose 59%. But when an LLM judge compared the two replies for
+helpfulness, it preferred the base instruct model 69% of the time. Matching a template is not the
+same as being more helpful: the Bitext references are short and templated (with placeholders such as
+`{{Order Number}}`), and an already-instruction-tuned base model gives fuller answers. A single
+overlap metric would have hidden this, which is why the evaluation uses two.
+
+**Next steps:** train on fuller, higher-quality replies or add a preference stage (DPO) using the judge's
+verdicts; test 2-3 epochs and a lower learning rate; review disagreements between ROUGE-L and the judge by hand.
