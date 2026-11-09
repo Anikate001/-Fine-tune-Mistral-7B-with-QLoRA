@@ -43,7 +43,7 @@ Evaluated on **81 held-out questions** (3 per intent, never seen in training) ag
 **Next experiments:** a preference stage (DPO) using the judge's verdicts as labels; fuller, higher-quality target
 replies; 2-3 epochs at a lower learning rate; a manual review of the cases where ROUGE-L and the judge disagree.
 
-Raw numbers: [`results/results.json`](results/results.json).
+Raw numbers: [`results/results.json`](results/results.json). Model card for the Hugging Face page: [`huggingface_model_card.md`](huggingface_model_card.md).
 
 ## 🧭 How it works
 
@@ -118,6 +118,7 @@ two independent metrics. The v1 adapter is still at
 ├── finetune_v2_bitext_eval.ipynb   # v2: data, QLoRA training, evaluation, publishing
 ├── scripts/                        # judge + report, resume-from-training helpers
 ├── results/results.json            # v2 evaluation numbers
+├── huggingface_model_card.md      # model card published on Hugging Face
 ├── inference_demo.py               # chat with the published adapter
 ├── docs/                           # result charts
 ├── finetune_qlora.ipynb            # v1 notebook
